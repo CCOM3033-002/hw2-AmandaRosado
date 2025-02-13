@@ -1,10 +1,15 @@
-// escriba su nombre, username en github y numero de estudiante en el header
-// incluya cualquier colaboración que haga
+// Amanda Rosado Rosado
+// Num. Est: 801-23-8238
+// Tarea 2, Suma de dos fracciones
+
 #include<iostream>
 using namespace std;
 
+
 int main(){
-  // escriba su código aquí 
+  
+  cout << "Este programa suma dos fracciones elegidas por el usuario." << endl;
+
   
   return 0;
 }
